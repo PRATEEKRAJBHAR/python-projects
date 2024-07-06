@@ -1,0 +1,2 @@
+from plyer import notification
+notification.notify(title="maha-shivratri is coming", message="maha-shivratri is the very famouse festival in india. in those days indian people whorship of lords of shiva, in this day lords of shiva marries from mata parwati",timeout=5)
